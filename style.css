@@ -40,6 +40,7 @@ h3{
 
 .f_link{
   color:#11999E;
+  padding: 40px 10px 30px;
 }
 
 .footer{
@@ -62,6 +63,6 @@ h3{
 }
 
 .intro{
-  width: 50%;
-  margin: 40px auto 60px;
+  background-color: #EAF6F6;
+  padding: 50px 10px 20px;
 }
