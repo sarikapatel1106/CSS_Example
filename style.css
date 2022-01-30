@@ -1,0 +1,67 @@
+body{
+  margin: 0;
+  text-align: center;
+}
+
+h1{
+  color: #66BFBF;
+}
+
+h2{
+  color: #66BFBF;
+}
+
+.pro{
+  text-decoration: underline;
+}
+
+.profile_pic{
+  width: 10%;
+  border-radius: 90%;
+}
+
+.first{
+  color: #40514E;
+}
+
+hr{
+  border: dotted #EAF6F6 5px;;
+  width:5%;
+    border-bottom: none;
+}
+
+h3{
+  color: #11999E;
+}
+
+.btn{
+  border-radius: 8px;
+}
+
+.f_link{
+  color:#11999E;
+}
+
+.footer{
+  background-color: #66BFBF;
+  padding: 50px 10px 20px;
+}
+
+.copyright{
+  color:#EAF6F6;
+}
+
+.contact{
+  width: 50%;
+  margin: 40px auto 60px;
+}
+
+.skill{
+  width: 50%;
+  margin: 40px auto 60px;
+}
+
+.intro{
+  width: 50%;
+  margin: 40px auto 60px;
+}
